@@ -1,5 +1,5 @@
-import 'bank_factory.dart';
-import 'i_bank.dart';
+import '../bank_factory.dart';
+import '../i_bank.dart';
 
 void main(List<String> arguments) {
   final bankCode = '111111';
