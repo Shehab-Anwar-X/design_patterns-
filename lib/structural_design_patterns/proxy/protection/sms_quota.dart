@@ -1,6 +1,6 @@
+import 'i_sms_quota.dart';
 import 'mobile_phone_sms.dart';
 import 'i_sms.dart';
-import 'i_sms_quota.dart';
 
 /// Helper class that is supposed to handle the database queries.
 class SmsQuota implements ISmsQuota {
