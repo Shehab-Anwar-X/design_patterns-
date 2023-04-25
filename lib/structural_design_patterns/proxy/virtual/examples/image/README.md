@@ -1,0 +1,1 @@
+Create a virtual proxy for loading and displaying images in your app. Use the proxy to defer loading of the image until it is actually needed.
