@@ -1,6 +1,6 @@
-import 'arithmetic_expression.dart';
+import 'arithmetic_expression_component.dart';
 
-class NumericOperand extends ArithmeticExpression {
+class NumericOperand extends ArithmeticExpressionComponent {
   final double value;
 
   NumericOperand({required this.value});

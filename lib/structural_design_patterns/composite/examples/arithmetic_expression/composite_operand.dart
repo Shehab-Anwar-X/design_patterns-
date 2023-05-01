@@ -1,8 +1,8 @@
-import 'arithmetic_expression.dart';
+import 'arithmetic_expression_component.dart';
 
-class CompositeOperand extends ArithmeticExpression {
-  final ArithmeticExpression firstArithOp;
-  final ArithmeticExpression secondArithOp;
+class CompositeOperand extends ArithmeticExpressionComponent {
+  final ArithmeticExpressionComponent firstArithOp;
+  final ArithmeticExpressionComponent secondArithOp;
   final String sign;
 
   CompositeOperand({
