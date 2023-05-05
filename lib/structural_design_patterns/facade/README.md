@@ -1,5 +1,3 @@
-Sure! Here's an example of a readme file about the Facade Design Pattern:
-
 # Facade Design Pattern
 
 The Facade Design Pattern is a structural pattern that provides a simplified interface to a complex system of classes and interfaces. The Facade pattern is used to encapsulate the complexity of a system and provide a simpler and more intuitive interface for the client to interact with.
