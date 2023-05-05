@@ -9,9 +9,9 @@ environment:
 # dependencies:
 #   path: ^1.8.0
 
-#dependencies:
-#  flutter:
-#    sdk: flutter
+dependencies:
+  flutter:
+    sdk: flutter
 #  provider: ^6.0.5
 
 dev_dependencies:
